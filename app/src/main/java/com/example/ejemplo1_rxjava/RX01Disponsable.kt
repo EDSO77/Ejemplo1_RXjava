@@ -8,4 +8,5 @@ class RX01Disponsable : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_rx01_disponsable)
     }
+
 }
